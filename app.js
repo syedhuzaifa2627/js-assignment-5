@@ -170,13 +170,13 @@
 
 // Question 15
 
-var mobileManufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"]
+// var mobileManufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"]
 
-document.writeln("<select>");
-document.writeln("<option>" + mobileManufacturers[0] + "</option>")
-document.writeln("<option>" + mobileManufacturers[1] + "</option>")
-document.writeln("<option>" + mobileManufacturers[2] + "</option>")
-document.writeln("<option>" + mobileManufacturers[3] + "</option>")
-document.writeln("<option>" + mobileManufacturers[4] + "</option>")
-document.writeln("<option>" + mobileManufacturers[5] + "</option>")
-document.writeln("</select>")
+// document.writeln("<select>");
+// document.writeln("<option>" + mobileManufacturers[0] + "</option>")
+// document.writeln("<option>" + mobileManufacturers[1] + "</option>")
+// document.writeln("<option>" + mobileManufacturers[2] + "</option>")
+// document.writeln("<option>" + mobileManufacturers[3] + "</option>")
+// document.writeln("<option>" + mobileManufacturers[4] + "</option>")
+// document.writeln("<option>" + mobileManufacturers[5] + "</option>")
+// document.writeln("</select>")
